@@ -133,7 +133,6 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 </details><hr>
 
 ## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 
 License: [MIT](https://github.com/Gojo-Satoru/LICENSE)
